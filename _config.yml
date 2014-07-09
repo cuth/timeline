@@ -1,0 +1,17 @@
+name: Timeline
+url: "http://localhost:4455"
+exclude: [
+    "README.md",
+    "*.zip",
+    "*.bat",
+    "sass",
+    "gulpfile.js",
+    "package.json",
+    "node_modules",
+    "TODO.*"
+]
+keep_files: [
+    "css",
+    "_html"
+]
+port: 4455
